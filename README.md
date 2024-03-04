@@ -1,16 +1,14 @@
-### Hi there 👋
+👋 Hello, I'm Syed Ali Hassan Naqvi, a Computer Science student passionate about software development. I specialize in Python and Flutter, striving to expand my knowledge and skills in these areas. I'm enthusiastic about learning new technologies and contributing to exciting projects. Follow me on my journey as I explore the world of coding and software development!
 
-<!--
-**alinaqvi05/alinaqvi05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills
+Languages: Python, Dart
+Frameworks/Libraries: Flutter, tkinter
+Tools: Git, GitHub
+Interests
+Mobile App Development
+Web Development
+Artificial Intelligence
+Let's Connect!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel Free to Contact me at syedalihassan1214@gmail.com 
+ 
